@@ -12,6 +12,7 @@
   "defaultScriptType": 0,
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Assets","folderPath":"folders/Assets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Extensions","folderPath":"folders/Extensions.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Fonts","folderPath":"folders/Fonts.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Notes","folderPath":"folders/Notes.yy",},
@@ -26,7 +27,6 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Sprites.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Assets","folderPath":"folders/Assets.yy",},
   ],
   "IncludedFiles": [],
   "isEcma": false,
@@ -40,6 +40,7 @@
     {"id":{"name":"Spr_attack","path":"sprites/Spr_attack/Spr_attack.yy",},},
     {"id":{"name":"Spr_jump","path":"sprites/Spr_jump/Spr_jump.yy",},},
     {"id":{"name":"Spr_walk","path":"sprites/Spr_walk/Spr_walk.yy",},},
+    {"id":{"name":"Tile_Set","path":"sprites/Tile_Set/Tile_Set.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
